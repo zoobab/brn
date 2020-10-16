@@ -1,3 +1,4 @@
+[![noswpatv3](http://zoobab.wdfiles.com/local--files/start/noupcv3.jpg)](https://ffii.org/donate-now-to-save-europe-from-software-patents-says-ffii/)
 # About
 
 Mkfirm is producing firmwares for the BRN (Broad Net Technology) bootloader, such as the one present on the BBOX1, based on a SOC TI AR7200.
